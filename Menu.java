@@ -51,7 +51,7 @@ public class  Menu extends  JFrame{
         insertMenu.add(mniCharts);  insertMenu.add(mniVideos);      insertMenu.add(mniPage);
 
         layoutMenu.add(mniMargins); layoutMenu.add(mniOrientation);     layoutMenu.add(mniColumn);
-        layoutMenu.add(mniSize);    layoutMenu.add(mniUserManual);     
+        layoutMenu.add(mniSize);    layoutMenu.add(mniUserManual);      
 
         externalMenu.add(mniReddit);        externalMenu.add(mniContact);
 
